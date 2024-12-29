@@ -11,5 +11,9 @@ A Login application made with Python and CustomTkinter. All the design and opera
 
 ## Features
 
+The application needs to recognize the username and password! If you enter the wrong password, it will notify you of an incorrect login. If you enter the correct password, you will be successful in logging in.
+
 You can switch to a database later, but originally it works directly in the code.
+
+![image](https://github.com/user-attachments/assets/27c16dab-7cab-454d-a05e-757f648071ee)
 
